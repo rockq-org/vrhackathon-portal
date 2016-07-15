@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u9ed1\u5ba2\u9a6c\u62c9\u677e", 
+            "title": "\u865a\u62df\u73b0\u5b9e\u9ed1\u5ba2\u677e"
+        }, 
+        {
+            "location": "/introduction/first-steps/", 
+            "text": "\u51c6\u5907", 
+            "title": "\u51c6\u5907"
+        }, 
+        {
+            "location": "/introduction/first-steps/#_1", 
+            "text": "", 
+            "title": "\u51c6\u5907"
+        }, 
+        {
+            "location": "/introduction/bearychat/", 
+            "text": "bearychat IM", 
+            "title": "Bearychat"
+        }, 
+        {
+            "location": "/introduction/bearychat/#bearychat-im", 
+            "text": "", 
+            "title": "bearychat IM"
+        }, 
+        {
+            "location": "/introduction/resources/", 
+            "text": "\uff03 \u8d44\u6e90", 
+            "title": "\u8d44\u6e90"
+        }, 
+        {
+            "location": "/setup-env/registration-team/", 
+            "text": "\u6ce8\u518c\u56e2\u961f", 
+            "title": "\u6ce8\u518c\u56e2\u961f"
+        }, 
+        {
+            "location": "/setup-env/registration-team/#_1", 
+            "text": "", 
+            "title": "\u6ce8\u518c\u56e2\u961f"
+        }, 
+        {
+            "location": "/setup-env/tech-stack/", 
+            "text": "\u6280\u672f\u4ecb\u7ecd", 
+            "title": "\u6280\u672f\u4ecb\u7ecd"
+        }, 
+        {
+            "location": "/setup-env/tech-stack/#_1", 
+            "text": "", 
+            "title": "\u6280\u672f\u4ecb\u7ecd"
+        }, 
+        {
+            "location": "/setup-env/sample-program/", 
+            "text": "\u7b80\u5355\u7a0b\u5e8f", 
+            "title": "\u793a\u4f8b\u7a0b\u5e8f"
+        }, 
+        {
+            "location": "/setup-env/sample-program/#_1", 
+            "text": "", 
+            "title": "\u7b80\u5355\u7a0b\u5e8f"
+        }, 
+        {
+            "location": "/howtos/debugging/", 
+            "text": "\u8c03\u8bd5", 
+            "title": "\u8c03\u8bd5"
+        }, 
+        {
+            "location": "/howtos/debugging/#_1", 
+            "text": "", 
+            "title": "\u8c03\u8bd5"
+        }
+    ]
+}

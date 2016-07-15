@@ -1,0 +1,12 @@
+site_name: VR Hackathon Beijing 2016
+pages:
+- 虚拟现实黑客松: 'index.md'
+- 注册团队: 'registration-team.md'
+- 快速开始: 'tech-stack.md'
+- 示例程序: 'sample-program.md'
+- 详细介绍: 
+  - '准备': 'introduction/first-steps.md'
+  - '资源': 'introduction/resources.md'
+- 怎么做:
+  - '调试': 'howtos/debugging.md'
+theme: readthedocs
