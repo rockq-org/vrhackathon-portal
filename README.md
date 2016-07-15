@@ -5,3 +5,7 @@ www.vrhackathonasia.org
 
 ## info
 info.vrhackathonasia.org
+
+
+## Lic
+MIT
